@@ -12,7 +12,7 @@ TuneWaves is not just a music platform, it's your portal to a world of limitless
 
 - **Vast Music Library**: Access an extensive collection of songs spanning genres, moods, and eras.
 
-- **Personal Playlists**: Craft bespoke playlists tailored to your unique tastes and emotions.
+- **Personal Favouritelists**: Craft bespoke favouritelists tailored to your unique tastes and emotions.
 
 - **User-Friendly Interface**: Navigate effortlessly through a sleek and intuitive user interface.
 
